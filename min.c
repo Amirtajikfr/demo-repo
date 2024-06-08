@@ -8,7 +8,7 @@ for (int i=0; i<10;i++){
 
 
         min=myaray[i];
-        printf("minimum :%d \n",min);
+        printf("minimum of this code :%d \n",min);
     }
 
 
